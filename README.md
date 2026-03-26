@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm @Saketh
+# Hi there! 👋 I'm @Tulasiram
 
 Welcome to my GitHub profile! I'm passionate about technology, design, and innovation. Here's a little more about me:
 
@@ -22,7 +22,7 @@ I am eager to collaborate on:
 - Cybersecurity-related domains
 
 ## 📫 How to Reach Me
-Feel free to email me at sakethpatnayakuni@gmail.com. Let’s connect and innovate together!
+Feel free to email me at tulasiramveerni007@gmail.com. Let’s connect and innovate together!
 
 ## 😄 Pronouns
 He/Him
